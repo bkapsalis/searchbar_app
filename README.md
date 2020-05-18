@@ -12,4 +12,4 @@ say '* Running on http://127.0.0.1:5000/', the server is running.
 * The code should insert the new data into the table(tbody) in the index.html and the table should appear.  The search box should still be functional.  
 
 
-* Libares flask, re and pandas may need to be pip installed. * 
+* * Libraries  flask, re and pandas may need to be pip installed. * 
